@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-## My namy is Misael Morales, I am from Venezuela, and I am currently a PhD student at USC
+#### My namy is Misael Morales, I am from Venezuela, and I am currently a PhD student at USC
 
 <!--
 **misaelmmorales/misaelmmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
