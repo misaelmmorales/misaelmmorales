@@ -1,6 +1,9 @@
 ### Hola! 👋
 
-#### My namy is Misael Morales, I am from Venezuela, and I am currently a PhD student at USC
+#### - 🏝 My name is Misael Morales, I am from Venezuela, and I am currently a PhD student at the University of Southern California.
+#### - 💻 My research is focused on the computational description of subsurface energy and environmental systems. I combine domain-specific knowledge with tools from machine learning, math and statistics, for accurate characterization and forecasting of complex subsurface dynamical systems.
+#### - 👨‍🎓 M.S. in Mathematics, B.S. in Applied Math and B.S. in Petroleum Engineering, all at the University of Tulsa.
+
 
 <!--
 **misaelmmorales/misaelmmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
