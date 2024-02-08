@@ -6,7 +6,7 @@
 - 🌐  My contacts: [Website](https://sites.google.com/view/misaelmmorales), [Linkedin](https://www.linkedin.com/in/misaelmmorales/), [ORCID](https://orcid.org/0000-0001-6923-1032), [Google Scholar](https://scholar.google.com/citations?user=wDcnKRUAAAAJ&hl=en)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=misaelmmorales&hide_rank=true&count_private=true&show_icons=true&custom_title=Github%20Stats&disable_animations=true&theme=holi" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=misaelmmorales&hide_rank=true&count_private=true&show_icons=true&custom_title=Github%20Stats&disable_animations=true&theme=holi&card_width=350" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelmmorales&hide_progress=true&langs_count=10&count_private=true&theme=holi&card_width=300" />
