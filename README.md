@@ -5,7 +5,7 @@
 - 🎓 M.S. in Mathematics, B.S. in Applied Math and B.S. in Petroleum Engineering, all from the University of Tulsa
 - 🌐 [Website](https://sites.google.com/view/misaelmmorales) | [Linkedin](https://www.linkedin.com/in/misaelmmorales/) | [ORCID](https://orcid.org/0000-0001-6923-1032) | [ResearchGate](https://www.researchgate.net/profile/Misael-Morales-2) | [Google Scholar](https://scholar.google.com/citations?user=wDcnKRUAAAAJ&hl=en)
 
-| Reduced-order modeling  | Forward & Inverse modeling  | Physics-informed machine learning | Uncertainty Quantification  | Data Assimilation  | Control & Optimization |
+| Latent space modeling  | Forward & Inverse modeling  | Physics-informed machine learning | Uncertainty Quantification  | Data Assimilation  | Control & Optimization |
 |------------- | ------------- | ------------- |------------- | ------------- | ------------- |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
